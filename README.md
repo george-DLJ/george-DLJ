@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @george-DLJ
-- 👀 I’m interested in improve my programming skills in C/C++ and C#
+- 👀 I’m interested in improve my programming skills
 - 🌱 I’m currently learning C# and Unity
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
